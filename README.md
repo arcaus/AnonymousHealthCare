@@ -9,7 +9,7 @@ Anonymous HealthCare is an online platform designed to provide convenient and co
 - **Request for chat:** The system will enable users to request a chat session with a customer rep to solve navigation issues.
 - **Request for video call:** The system will allow users to request a video call session with a doctor for virtual consultations.
 - **See doctor profile:** The system will allow users to view the profiles of doctors, including their qualifications, specialties, and experience.
-- **View prescription:** The system will provide users with the ability to access and review their digital prescriptions.
+- **Chat Profile:** The system will allow the users to view the profile of the person they are chatting with as well as search others.
 - **Book doctor appointment:** The system will allow users the option to schedule appointments with doctors.
 
 ### Payment
