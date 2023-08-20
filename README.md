@@ -50,7 +50,7 @@ Anonymous HealthCare is an online platform designed to provide convenient and co
 - Programming Language: [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - Web Stack: [MERN](https://www.mongodb.com/mern-stack#:~:text=MERN%20stands%20for%20MongoDB%2C%20Express,a%20client%2Dside%20JavaScript%20framework)
 - Payment Gateway Integration: [PayPal](https://www.paypal.com/)
-- Video Call Integration: [WebRTC](https://webrtc.org/)
+- Chat and Video Call Integration: [Socket.IO](https://socket.io/), [WebRTC](https://webrtc.org/)
 
 
 ## License
