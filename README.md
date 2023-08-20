@@ -34,7 +34,7 @@ Anonymous HealthCare is an online platform designed to provide convenient and co
 - **Patients profile management:** The system will allow admin to make a user as an admin.
 - **Confirm patient booking:** The system will allow admin to confirm patient appointments after receiving payment.
 - **Patient update profile:** The system will allow the patient to update their profile.
-- **Delete user profile:** The system will allow the users to have the option to delete their profile and associated data from the system.
+- **Delete user profile:** The system will allow the admin to have the option to delete their profile and associated data from the system.
 
 #
 ## Installation and Setup
